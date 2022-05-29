@@ -32,10 +32,10 @@ Streamlit- using streamlit I have made the Web browser.
 4> numpy :pip install numpy
 
 5> for face_recognition module :
-       -> download : visual studio c++
-       -> download : cmake++
-       -> clone: https://github.com/ageitgey/face_recognition.git
-       -> After clone Run command : python setup.py install
+       <> download : visual studio c++   
+       <> download : cmake++
+       <> clone: https://github.com/ageitgey/face_recognition.git
+       <> After clone Run command : python setup.py install
 
 6> deepface: pip install deepface
 
