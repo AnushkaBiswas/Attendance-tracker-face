@@ -63,8 +63,8 @@ def attandace(name):
             
             #Finding name with roll..sec..enroll
             f=open('stname.text',)
-            data=f.read() #get all the contact # name= anushka
-            data=data.split(',') #convert into list # data=['kabir','Anushka','Elon']
+            data=f.read() #get all the contact names
+            data=data.split(',') #convert into list # data=['Obama','Elon']
             f.close()
             idx=seraching(data,name)
 
