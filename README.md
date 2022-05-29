@@ -16,9 +16,13 @@ Machine Learning
 
 # PYTHON MODULES USED
 OpenCv - using OpenCv the image will be captured from the webcamera and will read the image.
+
 face_recognition - It will recognize the image and will match with the dataset that it is present or not, by finding 128 unique face encodings by HOG algorithm.
+
 Numpy- it will find the minimum face distance index.
+
 Deepface - emotion and gender recogniton.
+
 Streamlit- using streamlit I have made the Web browser.
 
 # REQUIREMENTS / INSTALLATIONS FOR THE PROJECT
@@ -32,9 +36,13 @@ Streamlit- using streamlit I have made the Web browser.
 4> numpy :pip install numpy
 
 5> for face_recognition module :
+
          <> download : visual studio c++
+         
          <> download : cmake++
+         
          <> clone: https://github.com/ageitgey/face_recognition.git
+         
          <> After clone Run command : python setup.py install
 
 6> deepface: pip install deepface
